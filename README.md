@@ -1,5 +1,5 @@
-# BigDataA3
-COMP3610 Big Data Analytics
+# COMP3610 Big Data Analytics Assignment 3
+
 ## Group Members:
 - Brandon Ramcharitar
 - Rajiv Ramcharan
